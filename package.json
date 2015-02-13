@@ -1,1 +1,16 @@
-{}
+{
+  "name": "g-r-i-d",
+  "version": "1.0.0",
+  "description": "a dumb simple css grid",
+  "main": "grid.css",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/axelav/grid.git"
+  },
+  "keywords": [
+    "css",
+    "grid"
+  ],
+  "author": "Axel Anderson",
+  "license": "MIT"
+}
