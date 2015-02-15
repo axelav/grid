@@ -1,6 +1,6 @@
 {
   "name": "g-r-i-d",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a dumb simple css grid",
   "main": "grid.css",
   "repository": {
